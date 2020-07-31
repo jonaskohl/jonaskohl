@@ -7,7 +7,7 @@
   --><img src="https://static.jonaskohl.de/dynamic_images/badge.php?label=Visit+my+Website%21&fg=%23fff&bg=%231037d8" alt="Visit my website!"><!--
 --></a>
   <a href="https://card.jonaskohl.de/c/jonaskohl"><!--
-  --><img src="https://static.jonaskohl.de/dynamic_images/badge.php?label=Visit+my+Website%21&fg=%23000&bg=%23e8f044" alt="See my GitCard!"><!--
+  --><img src="https://static.jonaskohl.de/dynamic_images/badge.php?label=See+my+GitCard%21&fg=%23000&bg=%23e8f044" alt="See my GitCard!"><!--
 --></a>
 </p>
 
