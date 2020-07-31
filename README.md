@@ -35,7 +35,7 @@
 </p>
 
 <p>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jonaskohl&&show_icons=true&hide_border=true">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jonaskohl&show_icons=true&hide_border=true&icon_color=1037d8&title_color=1037d8">
   <br>
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaskohl&layout=compact&hide_border=true">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaskohl&layout=compact&hide_border=true&title_color=1037d8">
 </p>
