@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jonaskohl">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jonaskohl&&show_icons=true&hide_border=true">
   <br>
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaskohl&layout=compact">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaskohl&layout=compact&hide_border=true">
 </p>
