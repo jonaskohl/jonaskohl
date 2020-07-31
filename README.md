@@ -3,30 +3,30 @@
 </p>
 
 <p align="center">
-  <a href="https://jonaskohl.de/">
-    <img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/website.svg" alt="Visit my website!">
-  </a>
-  <a href="https://card.jonaskohl.de/c/jonaskohl">
-    <img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/gitcard.svg" alt="See my GitCard!">
-  </a>
+  <a href="https://jonaskohl.de/"><!--
+  --><img src="https://static.jonaskohl.de/dynamic_images/badge.php?label=Visit+my+Website%21&fg=%23fff&bg=%231037d8" alt="Visit my website!"><!--
+--></a>
+  <a href="https://card.jonaskohl.de/c/jonaskohl"><!--
+  --><img src="https://static.jonaskohl.de/dynamic_images/badge.php?label=Visit+my+Website%21&fg=%23000&bg=%23e8f044" alt="See my GitCard!"><!--
+--></a>
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/jonaskohl13">
-    <img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/instagram.svg" alt="Instagram">
-  </a>
+  <a href="https://instagram.com/jonaskohl13"><!--
+  --><img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/instagram.svg" alt="Instagram"><!--
+--></a>
   &nbsp;
-  <a href="https://twitter.com/jonaskohl13">
-    <img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/twitter.svg" alt="Twitter">
-  </a>
+  <a href="https://twitter.com/jonaskohl13"><!--
+  --><img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/twitter.svg" alt="Twitter"><!--
+--></a>
   &nbsp;
-  <a href="https://t.me/jonaskohl">
-    <img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/telegram.svg" alt="Telegram">
-  </a>
+  <a href="https://t.me/jonaskohl"><!--
+  --><img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/telegram.svg" alt="Telegram"><!--
+--></a>
   &nbsp;
-  <a href="mailto:hello@jonaskohl.de">
-    <img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/email.svg" alt="Email">
-  </a>
+  <a href="mailto:hello@jonaskohl.de"><!--
+  --><img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/email.svg" alt="Email"><!--
+--></a>
 </p>
 
 <p>
