@@ -8,6 +8,12 @@ text {
   text-transform: uppercase;
   text-align: center;
 }
+svg:hover rect {
+  fill: #dc2ade;
+}
+svg:hover text {
+  fill: #e8f044;
+}
 </style>
   <rect rx="4" ry="4" x="0" y="0" width="100%" height="100%" fill="#e8f044"/>
   <text text-anchor="middle" alignment-baseline="central" x="63" y="11">See my GitCard!</text>
