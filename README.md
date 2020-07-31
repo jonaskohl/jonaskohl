@@ -24,6 +24,10 @@
   --><img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/telegram.svg" alt="Telegram"><!--
 --></a>
   &nbsp;
+  <a href="https://keybase.io/jonaskohl"><!--
+  --><img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/keybase.svg" alt="Keybase"><!--
+--></a>
+  &nbsp;
   <a href="mailto:hello@jonaskohl.de"><!--
   --><img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/email.svg" alt="Email"><!--
 --></a>
