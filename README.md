@@ -16,19 +16,11 @@
   --><img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/instagram.svg" alt="Instagram"><!--
 --></a>
   &nbsp;
-  <a href="https://twitter.com/jonaskohl13"><!--
-  --><img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/twitter.svg" alt="Twitter"><!--
---></a>
-  &nbsp;
-  <a href="https://t.me/jonaskohl"><!--
-  --><img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/telegram.svg" alt="Telegram"><!--
---></a>
-  &nbsp;
   <a href="https://keybase.io/jonaskohl"><!--
   --><img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/keybase.svg" alt="Keybase"><!--
 --></a>
   &nbsp;
-  <a href="mailto:hello@jonaskohl.de"><!--
+  <a href="https://jonaskohl.de/contact"><!--
   --><img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/email.svg" alt="Email"><!--
 --></a>
 </p>
