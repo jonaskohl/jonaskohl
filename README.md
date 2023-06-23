@@ -31,6 +31,6 @@
 </p>
 
 <p>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jonaskohl&show_icons=true&hide_border=true&icon_color=5E78E4&title_color=5E78E4&theme=dark&bg_color=0D1117&text_color=c9d1d9">
-  <img valign="top" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaskohl&layout=compact&hide_border=true&title_color=5E78E4&bg_color=0D1117&theme=dark&text_color=c9d1d9&exclude_repo=WindowsAPICodePack">
+  <img alt="GitHub stats" src="https://github-readme-stats-jonaskohl.vercel.app/api?username=jonaskohl&show_icons=true&hide_border=true&icon_color=5E78E4&title_color=5E78E4&theme=dark&bg_color=0D1117&text_color=c9d1d9">
+  <img valign="top" alt="Most used languages" src="https://github-readme-stats-jonaskohl.vercel.app/api/top-langs/?username=jonaskohl&layout=compact&hide_border=true&title_color=5E78E4&bg_color=0D1117&theme=dark&text_color=c9d1d9&exclude_repo=WindowsAPICodePack">
 </p>
