@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/logo.svg">
+  <img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/logo.svg" width="256">
 </p>
 
 <p align="center">
